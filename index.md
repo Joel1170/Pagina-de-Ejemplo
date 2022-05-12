@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Bienbenido a mi primer Pagina WEB
 
-You can use the [editor on GitHub](https://github.com/Joel1170/Pagina-de-Ejemplo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Con la aplicacion Githhub hemos diseñado un sitio wenb para la clase de Industria Inteligente
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Siempre que se comprometa con este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown es una sintaxis liviana y fácil de usar para diseñar su escritura. Incluye convenciones para
 
 ```markdown
-Syntax highlighted code block
+Bloque de código resaltado de sintaxis
 
 # Header 1
 ## Header 2
@@ -26,7 +26,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
